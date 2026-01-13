@@ -45,7 +45,7 @@ int main(){
     puts(strcat(c,d));
 
     //to compare of two strings
-    printf("This is compare two strings: ")
+    printf("This is compare two strings: ");
     if(strcmp(a,b)==0){
         printf("these strings are same");
     }
